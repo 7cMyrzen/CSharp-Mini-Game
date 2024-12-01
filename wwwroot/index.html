@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <title>TuzZoo</title>
+</head>
+<body>
+
+    <div class="tuzzoo">
+        <div class="tuzzoo-title">TuzZoo</div>
+        <div class="tuzzoo-content">
+            <div class="tuzzoo-nav">
+                <div class="nav statusbtn active">Statut</div>
+                <div class="nav shopbtn">Boutique</div>
+                <div class="nav debtbtn">Rembourser</div>
+            </div>
+            <div class="tuzzoo-display">
+                <div class="display status active">
+                    <div class="moneyday">
+                        <div class="info day">Jour &nbsp;<span class="actual-day"></span></div>
+                        <div class="info money">Argent : &nbsp;<span class="actual-money"></span></div>
+                        <div class="info debt">Dette : &nbsp;<span class="actual-debt"></span></div>
+                    </div>
+                    <div class="all-capacity">
+                        <div class="capacity animals">Animaux : &nbsp;<span class="actual-animal-capacity"></span>%</div>
+                        <div class="capacity land">Terrain : &nbsp;<span class="actual-land-capacity"></span>%</div>
+                    </div>
+                    <div class="all-possessed">
+                        <div class="possessed animals">
+                            <div class="animal-title">Animaux possédés : &nbsp;<span class="actual-animal-number"></span></div>
+                            <div class="animal-list">
+
+                            </div>
+                        </div>
+                        <div class="possessed land">
+                            <div class="land-visitor number">
+                               <img src="images/(Old School) - Avatars accounts student.png"> 
+                               <p>Visiteurs : &nbsp;<span class="actual-visitor"></span></p>
+                            </div>
+                            <div class="land-visitor price">
+                                <img src="images/(Purple) - Money dollar coins.png">
+                                <p>Prix d'entée : &nbsp;<span class="actual-price"></span></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="claim-money" id="claim">Récupérer l'argent quotidien</div>
+                </div>
+                <div class="display shop">
+                    <div class="money">
+                        <img src="images/10243319.png">
+                        <span class="shop-money"></span>
+                    </div>
+                    <div class="all-items">
+                        <div class="shop-title">Animaux</div> <!-- Je sais pas mais si j'en mets qu'un ça marche pas -->
+                        
+                        <div class="shop-animal">
+                            
+                        </div>
+                        <div class="shop-title">Terrain</div>
+                        <div class="shop-land">
+                            <div class="add-land">
+                                <img src="images/10243319.png">
+                                <span class="land-price"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="display debtdisplay">
+                    <div class="money">
+                        <img src="images/10243319.png">
+                        <span class="shop-money2"></span>
+                    </div>
+                    <div class="repay">
+                        <div class="debt-amount"><span>Montant de la dette : &nbsp;</span><span class="actual-debt2"></span></div>
+                        <input type="number" class="repay-input" placeholder="Montant à rembourser">
+                        <div class="repay-btn">Rembourser</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

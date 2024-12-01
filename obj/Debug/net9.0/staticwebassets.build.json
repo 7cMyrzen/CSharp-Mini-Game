@@ -1,0 +1,4050 @@
+{
+  "Version": 1,
+  "Hash": "GKmkV6LUD/mgZgqMqYizuAn2/tNirECYo8o+7nzg7Lw=",
+  "Source": "backend",
+  "BasePath": "_content/backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "backend\\wwwroot",
+      "Source": "backend",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "index#[.{fingerprint=dnghwyqfal}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "g37nztjd09",
+      "Integrity": "rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "lose#[.{fingerprint=8s55493atf}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gyvttxc2ts",
+      "Integrity": "+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "wl#[.{fingerprint=5ipweew5fc}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "style#[.{fingerprint=4g0fvi75xe}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bivj6qwze9",
+      "Integrity": "Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "wl#[.{fingerprint=vclqja7qs1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gxaepf2xs9",
+      "Integrity": "LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "win#[.{fingerprint=u1igbnc1vg}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xqrvb4uigk",
+      "Integrity": "OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "script#[.{fingerprint=8jsjzi46l9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "1q2vsdm2cl",
+      "Integrity": "dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/(Old School) - Avatars accounts student#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ei5hzvajjq",
+      "Integrity": "2ooowhrFhYfiL9OLphga7pMZQw9eByzKtf2coWJnjug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\(Old School) - Avatars accounts student.png"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/(Purple) - Money dollar coins#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2r3zhqilu",
+      "Integrity": "1bJN9eR+FOt4cOrov0yi28NS6tD6G3Z2jGX+qc7XZDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\(Purple) - Money dollar coins.png"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/10243319#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8u5pxd9vnb",
+      "Integrity": "0E4uwIRVOVN+Bqo+4UBCXrJZrn5K/o+4DqbNBgWpWfE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\10243319.png"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/bg#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dnvfn9f0r",
+      "Integrity": "DQNF6cIGjKA6DBkf5udUQDwFUUjpvZBVcVw1uwPVv7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bg.png"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Cheval#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k1iwd6gu19",
+      "Integrity": "WKg1f/F3OPtIB/MZfUa5qVffiyVpNrZZmjATSNnfXsA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Cheval.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Dragon#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "apzyli6hag",
+      "Integrity": "PkYZ360ZxC54B5I5HmyJu0bRRg9sBWht7MhNVhsyzqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Dragon.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Éléphant#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xjiaibzai1",
+      "Integrity": "bYrN9k+JpSNE7+2Q36zNbyz7Ci6/YsUYKjhymLuml3Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Éléphant.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Girafe#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "esr3mlt2xc",
+      "Integrity": "krZnw1wsBzGi0fXg1BsrDhbZcSjRTIreohMD/aZ+mjk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Girafe.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Licorne#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8831klwne7",
+      "Integrity": "mI6Ecov+Va1NqKSnva5ivGhxRnXFR7YJpCZEALSpCjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Licorne.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Lion#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bu6coewgd",
+      "Integrity": "86rGP/GllV4itAb6xVrirdiWobFk897wXBc0jox3MxI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Lion.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Mouton#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tbtfud7yh",
+      "Integrity": "8+dt4gkJQ1CtY3ZfDNCQSNNVJfDVqEAS8MZ/UfWw7q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Mouton.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Panda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8dg70jkip8",
+      "Integrity": "nDrGG+mH+TgYwe66rgJLJmqWIVFc70Aw/XnL+oGyjT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Panda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Phénix#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rxf64gd5n5",
+      "Integrity": "0ZX0OBNyfr3aoQNpb5UqjJLAp4FqrrQcYj+ga5c+NfQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Phénix.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Poulet#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v2rxd4f7l8",
+      "Integrity": "qYslnoUowSaPuXN3kaP9wQJ+T2zRMpCRIc5OwZDnpxE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Poulet.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Tigre#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dfhcp6kobd",
+      "Integrity": "x0v06J2V+MDBGQNwCxxYARVFRAf4xlucfzQM4RPuoVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Tigre.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "images/Vache#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a3mjij1a5w",
+      "Integrity": "lgQYg3HZGt5o7sGfqNPdK7BWAFHbhOrRndy+0iBOPWE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Vache.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dnghwyqfal",
+      "Integrity": "ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "lose#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8s55493atf",
+      "Integrity": "eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lose.html"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8jsjzi46l9",
+      "Integrity": "zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4g0fvi75xe",
+      "Integrity": "/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "win#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u1igbnc1vg",
+      "Integrity": "YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\win.html"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "wl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vclqja7qs1",
+      "Integrity": "nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wl.css"
+    },
+    {
+      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "SourceId": "backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "BasePath": "_content/backend",
+      "RelativePath": "wl#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wl.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/(Old School) - Avatars accounts student.ei5hzvajjq.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ooowhrFhYfiL9OLphga7pMZQw9eByzKtf2coWJnjug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 15:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ei5hzvajjq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/(Old School) - Avatars accounts student.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ooowhrFhYfiL9OLphga7pMZQw9eByzKtf2coWJnjug="
+        }
+      ]
+    },
+    {
+      "Route": "images/(Old School) - Avatars accounts student.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ooowhrFhYfiL9OLphga7pMZQw9eByzKtf2coWJnjug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 15:53:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ooowhrFhYfiL9OLphga7pMZQw9eByzKtf2coWJnjug="
+        }
+      ]
+    },
+    {
+      "Route": "images/(Purple) - Money dollar coins.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1bJN9eR+FOt4cOrov0yi28NS6tD6G3Z2jGX+qc7XZDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 15:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1bJN9eR+FOt4cOrov0yi28NS6tD6G3Z2jGX+qc7XZDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/(Purple) - Money dollar coins.t2r3zhqilu.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "128965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1bJN9eR+FOt4cOrov0yi28NS6tD6G3Z2jGX+qc7XZDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 15:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2r3zhqilu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/(Purple) - Money dollar coins.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1bJN9eR+FOt4cOrov0yi28NS6tD6G3Z2jGX+qc7XZDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/10243319.8u5pxd9vnb.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1276007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0E4uwIRVOVN+Bqo+4UBCXrJZrn5K/o+4DqbNBgWpWfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 16:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8u5pxd9vnb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/10243319.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0E4uwIRVOVN+Bqo+4UBCXrJZrn5K/o+4DqbNBgWpWfE="
+        }
+      ]
+    },
+    {
+      "Route": "images/10243319.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1276007"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0E4uwIRVOVN+Bqo+4UBCXrJZrn5K/o+4DqbNBgWpWfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 16:49:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0E4uwIRVOVN+Bqo+4UBCXrJZrn5K/o+4DqbNBgWpWfE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bg.9dnvfn9f0r.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQNF6cIGjKA6DBkf5udUQDwFUUjpvZBVcVw1uwPVv7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dnvfn9f0r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bg.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQNF6cIGjKA6DBkf5udUQDwFUUjpvZBVcVw1uwPVv7E="
+        }
+      ]
+    },
+    {
+      "Route": "images/bg.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DQNF6cIGjKA6DBkf5udUQDwFUUjpvZBVcVw1uwPVv7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DQNF6cIGjKA6DBkf5udUQDwFUUjpvZBVcVw1uwPVv7E="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cheval.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3122507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WKg1f/F3OPtIB/MZfUa5qVffiyVpNrZZmjATSNnfXsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:45:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WKg1f/F3OPtIB/MZfUa5qVffiyVpNrZZmjATSNnfXsA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cheval.k1iwd6gu19.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3122507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WKg1f/F3OPtIB/MZfUa5qVffiyVpNrZZmjATSNnfXsA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:45:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k1iwd6gu19"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Cheval.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WKg1f/F3OPtIB/MZfUa5qVffiyVpNrZZmjATSNnfXsA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Dragon.apzyli6hag.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PkYZ360ZxC54B5I5HmyJu0bRRg9sBWht7MhNVhsyzqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "apzyli6hag"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Dragon.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PkYZ360ZxC54B5I5HmyJu0bRRg9sBWht7MhNVhsyzqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Dragon.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "354566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PkYZ360ZxC54B5I5HmyJu0bRRg9sBWht7MhNVhsyzqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PkYZ360ZxC54B5I5HmyJu0bRRg9sBWht7MhNVhsyzqY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Éléphant.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1809355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYrN9k+JpSNE7+2Q36zNbyz7Ci6/YsUYKjhymLuml3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYrN9k+JpSNE7+2Q36zNbyz7Ci6/YsUYKjhymLuml3Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Éléphant.xjiaibzai1.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1809355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYrN9k+JpSNE7+2Q36zNbyz7Ci6/YsUYKjhymLuml3Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xjiaibzai1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Éléphant.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYrN9k+JpSNE7+2Q36zNbyz7Ci6/YsUYKjhymLuml3Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Girafe.esr3mlt2xc.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2128014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"krZnw1wsBzGi0fXg1BsrDhbZcSjRTIreohMD/aZ+mjk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "esr3mlt2xc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Girafe.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-krZnw1wsBzGi0fXg1BsrDhbZcSjRTIreohMD/aZ+mjk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Girafe.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2128014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"krZnw1wsBzGi0fXg1BsrDhbZcSjRTIreohMD/aZ+mjk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-krZnw1wsBzGi0fXg1BsrDhbZcSjRTIreohMD/aZ+mjk="
+        }
+      ]
+    },
+    {
+      "Route": "images/Licorne.8831klwne7.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2520778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mI6Ecov+Va1NqKSnva5ivGhxRnXFR7YJpCZEALSpCjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8831klwne7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Licorne.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mI6Ecov+Va1NqKSnva5ivGhxRnXFR7YJpCZEALSpCjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Licorne.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2520778"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mI6Ecov+Va1NqKSnva5ivGhxRnXFR7YJpCZEALSpCjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mI6Ecov+Va1NqKSnva5ivGhxRnXFR7YJpCZEALSpCjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Lion.7bu6coewgd.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3344920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86rGP/GllV4itAb6xVrirdiWobFk897wXBc0jox3MxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bu6coewgd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Lion.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-86rGP/GllV4itAb6xVrirdiWobFk897wXBc0jox3MxI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Lion.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3344920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"86rGP/GllV4itAb6xVrirdiWobFk897wXBc0jox3MxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-86rGP/GllV4itAb6xVrirdiWobFk897wXBc0jox3MxI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Mouton.9tbtfud7yh.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1103695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8+dt4gkJQ1CtY3ZfDNCQSNNVJfDVqEAS8MZ/UfWw7q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tbtfud7yh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Mouton.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8+dt4gkJQ1CtY3ZfDNCQSNNVJfDVqEAS8MZ/UfWw7q0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Mouton.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1103695"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8+dt4gkJQ1CtY3ZfDNCQSNNVJfDVqEAS8MZ/UfWw7q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8+dt4gkJQ1CtY3ZfDNCQSNNVJfDVqEAS8MZ/UfWw7q0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Panda.8dg70jkip8.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2823081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nDrGG+mH+TgYwe66rgJLJmqWIVFc70Aw/XnL+oGyjT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8dg70jkip8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Panda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nDrGG+mH+TgYwe66rgJLJmqWIVFc70Aw/XnL+oGyjT8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Panda.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2823081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nDrGG+mH+TgYwe66rgJLJmqWIVFc70Aw/XnL+oGyjT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nDrGG+mH+TgYwe66rgJLJmqWIVFc70Aw/XnL+oGyjT8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Phénix.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZX0OBNyfr3aoQNpb5UqjJLAp4FqrrQcYj+ga5c+NfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZX0OBNyfr3aoQNpb5UqjJLAp4FqrrQcYj+ga5c+NfQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Phénix.rxf64gd5n5.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ZX0OBNyfr3aoQNpb5UqjJLAp4FqrrQcYj+ga5c+NfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rxf64gd5n5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Phénix.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ZX0OBNyfr3aoQNpb5UqjJLAp4FqrrQcYj+ga5c+NfQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/Poulet.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2167692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYslnoUowSaPuXN3kaP9wQJ+T2zRMpCRIc5OwZDnpxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYslnoUowSaPuXN3kaP9wQJ+T2zRMpCRIc5OwZDnpxE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Poulet.v2rxd4f7l8.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2167692"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYslnoUowSaPuXN3kaP9wQJ+T2zRMpCRIc5OwZDnpxE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:42:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v2rxd4f7l8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Poulet.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYslnoUowSaPuXN3kaP9wQJ+T2zRMpCRIc5OwZDnpxE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tigre.dfhcp6kobd.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x0v06J2V+MDBGQNwCxxYARVFRAf4xlucfzQM4RPuoVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfhcp6kobd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Tigre.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x0v06J2V+MDBGQNwCxxYARVFRAf4xlucfzQM4RPuoVI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Tigre.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "463296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x0v06J2V+MDBGQNwCxxYARVFRAf4xlucfzQM4RPuoVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:38:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x0v06J2V+MDBGQNwCxxYARVFRAf4xlucfzQM4RPuoVI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Vache.a3mjij1a5w.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lgQYg3HZGt5o7sGfqNPdK7BWAFHbhOrRndy+0iBOPWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a3mjij1a5w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Vache.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lgQYg3HZGt5o7sGfqNPdK7BWAFHbhOrRndy+0iBOPWE="
+        }
+      ]
+    },
+    {
+      "Route": "images/Vache.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1462966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lgQYg3HZGt5o7sGfqNPdK7BWAFHbhOrRndy+0iBOPWE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 16:39:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lgQYg3HZGt5o7sGfqNPdK7BWAFHbhOrRndy+0iBOPWE="
+        }
+      ]
+    },
+    {
+      "Route": "index.dnghwyqfal.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000925925926"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnghwyqfal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs="
+        }
+      ]
+    },
+    {
+      "Route": "index.dnghwyqfal.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnghwyqfal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs="
+        }
+      ]
+    },
+    {
+      "Route": "index.dnghwyqfal.html.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnghwyqfal"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000925925926"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4584"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ibbVLZqauMZs3FlhbVy33Jv074hQCPVPhoJxjuR7GLs="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:18:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k="
+        }
+      ]
+    },
+    {
+      "Route": "lose.8s55493atf.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001736111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s55493atf"
+        },
+        {
+          "Name": "label",
+          "Value": "lose.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE="
+        }
+      ]
+    },
+    {
+      "Route": "lose.8s55493atf.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s55493atf"
+        },
+        {
+          "Name": "label",
+          "Value": "lose.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE="
+        }
+      ]
+    },
+    {
+      "Route": "lose.8s55493atf.html.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8s55493atf"
+        },
+        {
+          "Name": "label",
+          "Value": "lose.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI="
+        }
+      ]
+    },
+    {
+      "Route": "lose.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001736111111"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE="
+        }
+      ]
+    },
+    {
+      "Route": "lose.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eFtxdguy1LbD+5N7ViZJ6QMPs5YobWmiFr44CSKPYeE="
+        }
+      ]
+    },
+    {
+      "Route": "lose.html.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI="
+        }
+      ]
+    },
+    {
+      "Route": "script.8jsjzi46l9.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000442086649"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8jsjzi46l9"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo="
+        }
+      ]
+    },
+    {
+      "Route": "script.8jsjzi46l9.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8jsjzi46l9"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo="
+        }
+      ]
+    },
+    {
+      "Route": "script.8jsjzi46l9.js.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8jsjzi46l9"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000442086649"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zJ32ulstYZD+B81BYWkHqvOBjSGO2sX1baAkZeFGxSo="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:09:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8="
+        }
+      ]
+    },
+    {
+      "Route": "style.4g0fvi75xe.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000498504487"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2005"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4g0fvi75xe"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4="
+        }
+      ]
+    },
+    {
+      "Route": "style.4g0fvi75xe.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4g0fvi75xe"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4="
+        }
+      ]
+    },
+    {
+      "Route": "style.4g0fvi75xe.css.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4g0fvi75xe"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000498504487"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2005"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JjxjSlH1MCfkHE/O8Auqn1+d/UZgmOAH4r5/PePNz4="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc="
+        }
+      ]
+    },
+    {
+      "Route": "win.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001763668430"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc="
+        }
+      ]
+    },
+    {
+      "Route": "win.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc="
+        }
+      ]
+    },
+    {
+      "Route": "win.html.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM="
+        }
+      ]
+    },
+    {
+      "Route": "win.u1igbnc1vg.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001763668430"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1igbnc1vg"
+        },
+        {
+          "Name": "label",
+          "Value": "win.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc="
+        }
+      ]
+    },
+    {
+      "Route": "win.u1igbnc1vg.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1046"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1igbnc1vg"
+        },
+        {
+          "Name": "label",
+          "Value": "win.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YmY85scl6ENVBtXFSsggzQxcnTyhU3VJyyYNOGkBgJc="
+        }
+      ]
+    },
+    {
+      "Route": "win.u1igbnc1vg.html.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u1igbnc1vg"
+        },
+        {
+          "Name": "label",
+          "Value": "win.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM="
+        }
+      ]
+    },
+    {
+      "Route": "wl.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "wl.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "wl.5ipweew5fc.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "wl.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "wl.5ipweew5fc.js.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "wl.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "wl.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001362397820"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk="
+        }
+      ]
+    },
+    {
+      "Route": "wl.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk="
+        }
+      ]
+    },
+    {
+      "Route": "wl.css.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk="
+        }
+      ]
+    },
+    {
+      "Route": "wl.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "wl.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "wl.js.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:58:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "wl.vclqja7qs1.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001362397820"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vclqja7qs1"
+        },
+        {
+          "Name": "label",
+          "Value": "wl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk="
+        }
+      ]
+    },
+    {
+      "Route": "wl.vclqja7qs1.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vclqja7qs1"
+        },
+        {
+          "Name": "label",
+          "Value": "wl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nznwTNYzC9sS+En5Gir+QxiMumbYNNVQBpIr5I+PnZk="
+        }
+      ]
+    },
+    {
+      "Route": "wl.vclqja7qs1.css.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Dec 2024 21:50:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vclqja7qs1"
+        },
+        {
+          "Name": "label",
+          "Value": "wl.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk="
+        }
+      ]
+    }
+  ]
+}

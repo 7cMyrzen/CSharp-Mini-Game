@@ -1,0 +1,736 @@
+:root {
+    --text-color: #353f3b;
+    --reverse-text-color: #f4f4f9;
+    --body-bg-color: #353f3b;
+    --tuzzoo-bg-color: #f4f4f9;
+    --moneyday-bg-color: #303131;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    height: 100lvh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--body-bg-color);
+
+    overflow: hidden;
+
+    .tuzzoo {
+        height: 90dvh;
+        width: 90vw;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        background-color: var(--tuzzoo-bg-color);
+        border-radius: 5dvh;
+        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.75);
+
+        overflow: hidden;
+
+        .tuzzoo-title {
+            height: 10%;
+            width: 100%;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            font-size: 3dvh;
+            font-weight: 700;
+            color: var(--text-color);
+            border-bottom: 0.25px solid var(--text-color);
+        }
+
+        .tuzzoo-content {
+            height: 90%;
+            width: 100%;
+
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+
+            overflow-y: auto;
+
+            .tuzzoo-nav {
+                width: 20%;
+                height: 100%;
+
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-start;
+                align-items: center;
+                
+                overflow: hidden;
+
+                .nav {
+                    width: 90%;
+                    height: 10%;
+
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                    font-size: 2dvh;
+                    font-weight: 700;
+                    color: var(--text-color);
+
+                    margin: 1dvh;
+                    border-radius: 3dvh;
+                    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                    overflow: hidden;
+                }
+                
+                .debt {
+                    background-color: darkred;
+                    color: var(--reverse-text-color);
+
+                    &:hover {
+                        background-color: red;
+                        cursor: pointer;
+                    }
+                }
+
+                .active {
+                    background-color: var(--text-color);
+                    color: var(--reverse-text-color)
+                }
+
+                .nav:hover{
+                    background-color: var(--text-color);
+                    color: var(--reverse-text-color);
+                    cursor: pointer;
+                }
+
+            }
+
+            .tuzzoo-display {
+                width: 80%;
+                height: 100%;
+
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+
+                transition: all 0.5s ease-in-out;
+
+                overflow: hidden;
+
+                .display {
+                    height: 100%;
+                    width: 100%;
+
+                    display: none;
+
+                    transition: all 0.5s ease-in-out;
+
+                    overflow: hidden;
+                }
+
+                .active {
+                    display: flex;
+                }
+
+                .status {
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+
+                    .moneyday {
+                        height: 10%;
+                        width: 100%;
+
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        align-items: center;
+
+                        overflow: hidden;
+
+                        .info {
+                            height: 90%;
+                            width: 30%;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            font-size: 2dvh;
+                            font-weight: 900;
+                            color: var(--reverse-text-color);
+
+                            border-radius: 3dvh;
+                            box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+                            background-color: var(--moneyday-bg-color);
+
+                            overflow: hidden;
+
+                            span {
+                                font-size: 2dvh;
+                                font-weight: 900;
+                            }
+                        }
+                    }
+
+                    .all-capacity {
+                        height: 10%;
+                        width: 100%;
+
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        align-items: center;
+
+                        overflow: hidden;
+
+                        .capacity {
+                            height: 90%;
+                            width: 46%;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            font-size: 2dvh;
+                            font-weight: 900;
+                            color: var(--text-color);
+
+                            border-radius: 3dvh;
+                            box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                            overflow: hidden;
+
+                            span {
+                                font-size: 2dvh;
+                                font-weight: 900;
+                            }
+                        }
+                    }
+
+                    .all-possessed {
+                        height: 70%;
+                        width: 100%;
+
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-evenly;
+                        align-items: center;
+
+                        overflow: hidden;
+
+                        .possessed {
+                            height: 90%;
+                            width: 46%;
+
+                            border-radius: 3dvh;
+                            box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                            overflow: hidden;
+                        }
+
+                        .animals {
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: flex-start;
+                            align-items: center;
+
+                            .animal-title {
+                                height: 10%;
+                                width: 100%;
+
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+
+                                font-size: 2dvh;
+                                font-weight: 700;
+                                color: var(--text-color);
+
+                                border-bottom: 0.25px solid var(--text-color);
+
+                                overflow: hidden;
+                            }
+
+                            .animal-list {
+                                height: 90%;
+                                width: 100%;
+
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: flex-start;
+                                align-items: center;
+
+                                overflow-y: auto;
+
+                                .animal {
+                                    height: 20%;
+                                    min-height: 20%;
+                                    width: 90%;
+
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: space-between;
+                                    align-items: center;
+
+                                    font-size: 2dvh;
+                                    font-weight: 700;
+                                    color: var(--text-color);
+
+                                    background-color: white;
+
+                                    margin: 1dvh;
+                                    border-radius: 3dvh;
+                                    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                                    overflow: hidden;
+
+                                    .img {
+                                        height: 90%;
+                                        width: 20%;
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        img {
+                                            height: auto;
+                                            width: auto;
+                                            max-width: 100%;
+                                            max-height: 100%;
+                                        }
+                                    }
+
+                                    .name {
+                                        height: 90%;
+                                        width: 60%;
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        font-size: 2dvh;
+                                        font-weight: 700;
+                                        color: var(--text-color);
+
+                                        overflow: hidden;
+                                    }
+
+                                    .quantity {
+                                        height: 90%;
+                                        width: 20%;
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        font-size: 2dvh;
+                                        font-weight: 700;
+                                        color: var(--text-color);
+
+                                        overflow: hidden;
+                                    }
+                                }
+                            }
+                        }
+
+                        .land {
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: space-evenly;
+                            align-items: center;
+
+                            .land-visitor {
+                                height: 90%;
+                                width: 45%;
+
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+                                align-items: center;
+
+                                border-radius: 3dvh;
+                                box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                                overflow: hidden;
+
+                                img {
+                                    height: auto;
+                                    width: 90%;
+                                }
+                            }
+                        }
+                    }
+
+                    .claim-money {
+                        height: 10%;
+                        width: 95%;
+
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+
+                        font-size: 2dvh;
+                        font-weight: 700;
+                        color: var(--reverse-text-color);
+                        background-color: var(--text-color);
+
+                        margin: 1dvh;
+                        border-radius: 3dvh;
+                        box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                        overflow: hidden;
+
+                        &:hover {
+                            background-color: var(--reverse-text-color);
+                            color: var(--text-color);
+                            cursor: pointer;
+                        }
+                    }
+                }
+
+                .shop {
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    align-items: center;
+
+                    .money {
+                        height: 90%;
+                        width: 30%;
+
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+
+                        border-radius: 3dvh;
+                        box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                        overflow: hidden;
+
+                        img {
+                            height: auto;
+                            width: 90%;
+                        }
+
+                        span {
+                            font-size: 5dvh;
+                            font-weight: 1000;
+                            color: var(--text-color);
+                        }
+                    }
+
+                    .all-items {
+                        height: 100%;
+                        width: 60%;
+                        min-width: 60%;
+                        max-width: 60%;
+                        min-height: 100%;
+                        max-height: 100%;
+
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: flex-start;
+                        align-items: center;
+
+                        overflow-y: auto;
+                        overflow-x: hidden;
+
+                        .shop-title {
+                            height: 15vh;
+                            min-height: 15vh;
+                            width: 100%;
+                            margin-top: 5vh;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            font-size: 4dvh;
+                            font-weight: 1000;
+                            color: var(--text-color);
+
+                            overflow: hidden;
+                        }
+
+                        .shop-animal {
+                            width: 100%;
+                            height: 75vh;
+                            min-height: 75vh;
+
+                            display: flex;
+                            flex-wrap: wrap;
+                            justify-content: center;
+                            align-items: center;
+
+
+                            .animal {
+                                height: 25vh;
+                                width: 21%;
+                                min-width: 21%;
+                                max-width: 21%;
+                                min-height: 25vh;
+                                max-height: 25vh;
+                                margin-left: 2%;
+                                margin-right: 2%;
+                                margin-top: 1vh;
+                                margin-bottom: 1vh;
+
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+                                align-items: center;
+
+                                border-radius: 3dvh;
+                                box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+                                background-color: white;
+
+                                overflow: hidden;
+
+                                .img {
+                                    height: 60%;
+                                    width: 90%;
+
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    img {
+                                        height: auto;
+                                        width: auto;
+                                        max-width: 100%;
+                                        max-height: 100%;
+                                    }
+                                }
+
+                                span {
+                                    height: 20%;
+                                    width: 100%;
+
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    font-size: 2dvh;
+                                    font-weight: 700;
+                                    color: var(--text-color);
+
+                                    overflow: hidden;
+                                }
+
+                                .buy {
+                                    height: 20%;
+                                    width: 100%;
+
+                                    display: flex;
+                                    flex-direction: row;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    font-size: 2dvh;
+                                    font-weight: 700;
+                                    color: var(--text-color);
+
+                                    background-color: darkgreen;
+
+                                    overflow: hidden;
+
+                                    img {
+                                        height: 90%;
+                                        width: auto;
+                                    }
+
+                                    span {
+                                        height: 100%;
+                                        width: auto;
+
+                                        display: flex;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                        font-size: 2dvh;
+                                        font-weight: 700;
+                                        color: white;
+                                    }
+
+                                    &:hover {
+                                        background-color: green;
+                                        cursor: pointer;
+                                    }
+                                }
+                                
+                            }
+                        }
+
+                        .shop-land {
+                            width: 100%;
+                            height: 20vh;
+                            min-height: 20vh;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            .add-land {
+                                height: 60%;
+                                width: 60%;
+
+                                display: flex;
+                                flex-direction: row;
+                                justify-content: center;
+                                align-items: center;
+
+                                border-radius: 6dvh;
+                                box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                                background-color: darkgreen;
+
+                                overflow: hidden;
+
+                                img {
+                                    height: 90%;
+                                    width: auto;
+                                }
+
+                                span {
+                                    font-size: 3dvh;
+                                    font-weight: 700;
+                                    color: white;
+                                }
+
+                                &:hover {
+                                    background-color: green;
+                                    cursor: pointer;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .debtdisplay {
+                    flex-direction: row;
+                    justify-content: space-evenly;
+                    align-items: center;
+
+                    .money {
+                        height: 90%;
+                        width: 20%;
+
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+
+                        border-radius: 3dvh;
+                        box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                        overflow: hidden;
+
+                        img {
+                            height: auto;
+                            width: 90%;
+                        }
+
+                        span {
+                            font-size: 5dvh;
+                            font-weight: 1000;
+                            color: var(--text-color);
+                        }
+                    }
+
+                    .repay {
+                        height: 100%;
+                        width: 60%;
+
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-evenly;
+                        align-items: center;
+
+                        overflow: hidden;
+
+                        .debt-amount {
+                            height: 15%;
+                            width: 90%;
+
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+
+                            overflow: hidden;
+
+                            span {
+                                font-size: 4dvh;
+                                font-weight: 700;
+                            }
+                        }
+
+                        input {
+                            height: 30%;
+                            width: 90%;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            font-size: 6dvh;
+                            font-weight: 700;
+                            color: var(--text-color);
+
+                            border-radius: 6dvh;
+                            box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                            -webkit-appearance: textfield;
+                            -moz-appearance: textfield;
+                            appearance: textfield;
+                            text-align: center;
+
+                            overflow: hidden;
+                        }
+
+                        .repay-btn {
+                            height: 30%;
+                            width: 90%;
+
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+
+                            font-size: 8dvh;
+                            font-weight: 700;
+                            color: white;
+                            background-color: rgb(92, 8, 8);
+
+                            border-radius: 6dvh;
+                            box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+
+                            overflow: hidden;
+
+                            &:hover {
+                                background-color: red;
+                                cursor: pointer;
+                            }
+                        }
+                    } 
+                }
+            }
+        }
+    }
+}

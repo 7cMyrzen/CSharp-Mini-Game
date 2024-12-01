@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "PackagePath": "staticwebassets\\images\\(Old School) - Avatars accounts student.png"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "PackagePath": "staticwebassets\\images\\(Purple) - Money dollar coins.png"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "PackagePath": "staticwebassets\\images\\10243319.png"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "PackagePath": "staticwebassets\\images\\Cheval.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "PackagePath": "staticwebassets\\images\\Dragon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "PackagePath": "staticwebassets\\images\\Girafe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "PackagePath": "staticwebassets\\images\\Licorne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "PackagePath": "staticwebassets\\images\\Lion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "PackagePath": "staticwebassets\\images\\Mouton.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "PackagePath": "staticwebassets\\images\\Panda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "PackagePath": "staticwebassets\\images\\Phénix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "PackagePath": "staticwebassets\\images\\Poulet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "PackagePath": "staticwebassets\\images\\Tigre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "PackagePath": "staticwebassets\\images\\Vache.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "PackagePath": "staticwebassets\\images\\Éléphant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "PackagePath": "staticwebassets\\lose.html"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "PackagePath": "staticwebassets\\win.html"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "PackagePath": "staticwebassets\\wl.css"
+    },
+    {
+      "Id": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "PackagePath": "staticwebassets\\wl.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.backend.props",
+      "PackagePath": "build\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.backend.props",
+      "PackagePath": "buildMultiTargeting\\backend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.backend.props",
+      "PackagePath": "buildTransitive\\backend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
