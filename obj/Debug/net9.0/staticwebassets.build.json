@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GKmkV6LUD/mgZgqMqYizuAn2/tNirECYo8o+7nzg7Lw=",
+  "Hash": "zB6LX9iFZsLJH6GCaMVsfBGfV+94wk2eYEJs6EnvlnA=",
   "Source": "backend",
   "BasePath": "_content/backend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "backend\\wwwroot",
       "Source": "backend",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "index#[.{fingerprint=dnghwyqfal}]?.html.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "g37nztjd09",
       "Integrity": "rIpR+uLanZANy54pP7GS9JX39O8GqnztOlOhfFhdi/k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "lose#[.{fingerprint=8s55493atf}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\lose.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "gyvttxc2ts",
       "Integrity": "+BcmAKrau3yrdWLW2mhXtEQR0+7RdOD/bmrQwDAy1wI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\lose.html"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "wl#[.{fingerprint=5ipweew5fc}]?.js.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "5ipweew5fc",
       "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.js"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "style#[.{fingerprint=4g0fvi75xe}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "bivj6qwze9",
       "Integrity": "Q1QT9O60Rzc9kqXtsgHu2odtqYEZuc+/CCYN5/Mkksc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\style.css"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "wl#[.{fingerprint=vclqja7qs1}]?.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "gxaepf2xs9",
       "Integrity": "LByRMo/UZXDgHnvSP1giWw2+h1KbddWJteDrw9c+qfk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.css"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "win#[.{fingerprint=u1igbnc1vg}]?.html.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\win.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "xqrvb4uigk",
       "Integrity": "OXmvQITq00En3QWHeKuYbWt+pgeu0oYijQw/WDDx2uM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\win.html"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/backend",
       "RelativePath": "script#[.{fingerprint=8jsjzi46l9}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "RelatedAsset": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "1q2vsdm2cl",
       "Integrity": "dxB6xsWXc62mHt/04ghjm8sZmr7ytEhrunZSYIWHxs8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js"
+      "OriginalItemSpec": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/(Old School) - Avatars accounts student#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\(Old School) - Avatars accounts student.png"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/(Purple) - Money dollar coins#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\(Purple) - Money dollar coins.png"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/10243319#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\10243319.png"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/bg#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.png"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Cheval#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Cheval.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Dragon#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Dragon.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Éléphant#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Éléphant.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Girafe#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Girafe.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Licorne#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Licorne.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Lion#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Lion.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Mouton#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Mouton.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Panda#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Panda.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Phénix#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Phénix.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Poulet#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Poulet.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Tigre#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Tigre.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "images/Vache#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Vache.jpg"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\index.html",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\lose.html",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "lose#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lose.html"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\script.js",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\style.css",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\style.css"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\win.html",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "win#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\win.html"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.css",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "wl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\wl.css"
     },
     {
-      "Identity": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "Identity": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.js",
       "SourceId": "backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\",
       "BasePath": "_content/backend",
       "RelativePath": "wl#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -650,7 +650,7 @@
   "Endpoints": [
     {
       "Route": "images/(Old School) - Avatars accounts student.ei5hzvajjq.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -671,7 +671,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 15:53:15 GMT"
+          "Value": "Sun, 01 Dec 2024 15:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -695,7 +695,7 @@
     },
     {
       "Route": "images/(Old School) - Avatars accounts student.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\(Old School) - Avatars accounts student.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -716,7 +716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 15:53:15 GMT"
+          "Value": "Sun, 01 Dec 2024 15:53:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -732,7 +732,7 @@
     },
     {
       "Route": "images/(Purple) - Money dollar coins.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -769,7 +769,7 @@
     },
     {
       "Route": "images/(Purple) - Money dollar coins.t2r3zhqilu.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\(Purple) - Money dollar coins.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -814,7 +814,7 @@
     },
     {
       "Route": "images/10243319.8u5pxd9vnb.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -859,7 +859,7 @@
     },
     {
       "Route": "images/10243319.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\10243319.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -896,7 +896,7 @@
     },
     {
       "Route": "images/bg.9dnvfn9f0r.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -941,7 +941,7 @@
     },
     {
       "Route": "images/bg.png",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\bg.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -978,7 +978,7 @@
     },
     {
       "Route": "images/Cheval.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -999,7 +999,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:45:23 GMT"
+          "Value": "Sun, 01 Dec 2024 16:45:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1015,7 +1015,7 @@
     },
     {
       "Route": "images/Cheval.k1iwd6gu19.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Cheval.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1036,7 +1036,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:45:23 GMT"
+          "Value": "Sun, 01 Dec 2024 16:45:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1060,7 +1060,7 @@
     },
     {
       "Route": "images/Dragon.apzyli6hag.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1081,7 +1081,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:59 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1105,7 +1105,7 @@
     },
     {
       "Route": "images/Dragon.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Dragon.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1126,7 +1126,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:59 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1142,7 +1142,7 @@
     },
     {
       "Route": "images/Éléphant.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1163,7 +1163,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:29 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1179,7 +1179,7 @@
     },
     {
       "Route": "images/Éléphant.xjiaibzai1.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Éléphant.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1200,7 +1200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:29 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1224,7 +1224,7 @@
     },
     {
       "Route": "images/Girafe.esr3mlt2xc.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1245,7 +1245,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:15 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1269,7 +1269,7 @@
     },
     {
       "Route": "images/Girafe.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Girafe.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1290,7 +1290,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:15 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1306,7 +1306,7 @@
     },
     {
       "Route": "images/Licorne.8831klwne7.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1327,7 +1327,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:45 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1351,7 +1351,7 @@
     },
     {
       "Route": "images/Licorne.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Licorne.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1372,7 +1372,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:45 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1388,7 +1388,7 @@
     },
     {
       "Route": "images/Lion.7bu6coewgd.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1409,7 +1409,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:21 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1433,7 +1433,7 @@
     },
     {
       "Route": "images/Lion.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Lion.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1454,7 +1454,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:21 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1470,7 +1470,7 @@
     },
     {
       "Route": "images/Mouton.9tbtfud7yh.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1491,7 +1491,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:15 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1515,7 +1515,7 @@
     },
     {
       "Route": "images/Mouton.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Mouton.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1536,7 +1536,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:15 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1552,7 +1552,7 @@
     },
     {
       "Route": "images/Panda.8dg70jkip8.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1573,7 +1573,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:07 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1597,7 +1597,7 @@
     },
     {
       "Route": "images/Panda.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Panda.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1618,7 +1618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:07 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1634,7 +1634,7 @@
     },
     {
       "Route": "images/Phénix.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1655,7 +1655,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:51 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1671,7 +1671,7 @@
     },
     {
       "Route": "images/Phénix.rxf64gd5n5.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Phénix.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1692,7 +1692,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:38:51 GMT"
+          "Value": "Sun, 01 Dec 2024 16:38:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1716,7 +1716,7 @@
     },
     {
       "Route": "images/Poulet.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1737,7 +1737,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:42:57 GMT"
+          "Value": "Sun, 01 Dec 2024 16:42:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1753,7 +1753,7 @@
     },
     {
       "Route": "images/Poulet.v2rxd4f7l8.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Poulet.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1774,7 +1774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:42:57 GMT"
+          "Value": "Sun, 01 Dec 2024 16:42:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1798,7 +1798,7 @@
     },
     {
       "Route": "images/Tigre.dfhcp6kobd.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1843,7 +1843,7 @@
     },
     {
       "Route": "images/Tigre.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Tigre.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1880,7 +1880,7 @@
     },
     {
       "Route": "images/Vache.a3mjij1a5w.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1901,7 +1901,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:51 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1925,7 +1925,7 @@
     },
     {
       "Route": "images/Vache.jpg",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\images\\Vache.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1946,7 +1946,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 16:39:51 GMT"
+          "Value": "Sun, 01 Dec 2024 16:39:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1962,7 +1962,7 @@
     },
     {
       "Route": "index.dnghwyqfal.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2025,7 +2025,7 @@
     },
     {
       "Route": "index.dnghwyqfal.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2070,7 +2070,7 @@
     },
     {
       "Route": "index.dnghwyqfal.html.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2123,7 +2123,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2178,7 +2178,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2215,7 +2215,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\0yulyb0yu6-dnghwyqfal.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2260,7 +2260,7 @@
     },
     {
       "Route": "lose.8s55493atf.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2283,7 +2283,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2323,7 +2323,7 @@
     },
     {
       "Route": "lose.8s55493atf.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\lose.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2344,7 +2344,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2368,7 +2368,7 @@
     },
     {
       "Route": "lose.8s55493atf.html.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2389,7 +2389,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2421,7 +2421,7 @@
     },
     {
       "Route": "lose.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2444,7 +2444,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2476,7 +2476,7 @@
     },
     {
       "Route": "lose.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\lose.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\lose.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2497,7 +2497,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2513,7 +2513,7 @@
     },
     {
       "Route": "lose.html.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\f8ptn3rcnf-8s55493atf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2534,7 +2534,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:23 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2558,7 +2558,7 @@
     },
     {
       "Route": "script.8jsjzi46l9.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2621,7 +2621,7 @@
     },
     {
       "Route": "script.8jsjzi46l9.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2666,7 +2666,7 @@
     },
     {
       "Route": "script.8jsjzi46l9.js.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2719,7 +2719,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2774,7 +2774,7 @@
     },
     {
       "Route": "script.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\script.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2811,7 +2811,7 @@
     },
     {
       "Route": "script.js.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\y3p9qu5i8n-8jsjzi46l9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2856,7 +2856,7 @@
     },
     {
       "Route": "style.4g0fvi75xe.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2879,7 +2879,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+          "Value": "Sun, 01 Dec 2024 20:19:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2919,7 +2919,7 @@
     },
     {
       "Route": "style.4g0fvi75xe.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2940,7 +2940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+          "Value": "Sun, 01 Dec 2024 20:19:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2964,7 +2964,7 @@
     },
     {
       "Route": "style.4g0fvi75xe.css.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2985,7 +2985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+          "Value": "Sun, 01 Dec 2024 20:19:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3017,7 +3017,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3040,7 +3040,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+          "Value": "Sun, 01 Dec 2024 20:19:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3072,7 +3072,7 @@
     },
     {
       "Route": "style.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\style.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3093,7 +3093,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+          "Value": "Sun, 01 Dec 2024 20:19:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3109,7 +3109,7 @@
     },
     {
       "Route": "style.css.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\kkcq3tvu9q-4g0fvi75xe.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3130,7 +3130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 20:19:25 GMT"
+          "Value": "Sun, 01 Dec 2024 20:19:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3154,7 +3154,7 @@
     },
     {
       "Route": "win.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3177,7 +3177,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3209,7 +3209,7 @@
     },
     {
       "Route": "win.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\win.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3230,7 +3230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3246,7 +3246,7 @@
     },
     {
       "Route": "win.html.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3267,7 +3267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3291,7 +3291,7 @@
     },
     {
       "Route": "win.u1igbnc1vg.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3314,7 +3314,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3354,7 +3354,7 @@
     },
     {
       "Route": "win.u1igbnc1vg.html",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\win.html",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\win.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3375,7 +3375,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3399,7 +3399,7 @@
     },
     {
       "Route": "win.u1igbnc1vg.html.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\wb9rpoxwqd-u1igbnc1vg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3420,7 +3420,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 01 Dec 2024 22:15:17 GMT"
+          "Value": "Sun, 01 Dec 2024 22:15:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3452,7 +3452,7 @@
     },
     {
       "Route": "wl.5ipweew5fc.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3515,7 +3515,7 @@
     },
     {
       "Route": "wl.5ipweew5fc.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3560,7 +3560,7 @@
     },
     {
       "Route": "wl.5ipweew5fc.js.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3613,7 +3613,7 @@
     },
     {
       "Route": "wl.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3668,7 +3668,7 @@
     },
     {
       "Route": "wl.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3705,7 +3705,7 @@
     },
     {
       "Route": "wl.css.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3750,7 +3750,7 @@
     },
     {
       "Route": "wl.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3805,7 +3805,7 @@
     },
     {
       "Route": "wl.js",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.js",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3842,7 +3842,7 @@
     },
     {
       "Route": "wl.js.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\gh5abunwmw-5ipweew5fc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3887,7 +3887,7 @@
     },
     {
       "Route": "wl.vclqja7qs1.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3950,7 +3950,7 @@
     },
     {
       "Route": "wl.vclqja7qs1.css",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\wwwroot\\wl.css",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\wwwroot\\wl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3995,7 +3995,7 @@
     },
     {
       "Route": "wl.vclqja7qs1.css.gz",
-      "AssetFile": "C:\\Users\\7cmyr\\Music\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
+      "AssetFile": "C:\\Users\\7cmyr\\Documents\\Ynov\\CSharp-TuzZoo\\CSharp-TuzZoo\\obj\\Debug\\net9.0\\compressed\\pxrx3j7cwm-vclqja7qs1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
